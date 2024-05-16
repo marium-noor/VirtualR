@@ -15,9 +15,13 @@ function HeroSection() {
             into immersive reality!
         </p>
 
-        <div className="justify-center flex my-10">
-            <a href="" className="py-3 px-5 bg-gradient-to-r from-orange-500 to-orange-900 rounded-md mx-3">Start for free</a>
-            <a href="" className="py-3 px-5 bg-transparent border rounded-md mx-3">Documentation</a>
+        <div className="justify-center flex my-10 lg:space-x-4 space-x-2">
+            <a href="" 
+            className='text-center border border-slate-400 rounded-md px-2 py-2 bg-gradient-to-r from-orange-500 to-orange-900'
+            >Start for free</a>
+            <a href="" 
+            className='border border-slate-400 rounded-md px-2 py-2'
+            >Documentation</a>
         </div>
 
         <div className="flex mt-10 justify-center lg:mx-10">

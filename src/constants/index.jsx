@@ -138,7 +138,7 @@ export const testimonials = [
       user: "Ronee Brown",
       company: "Fusion Dynamics",
       image: user4,
-      text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+      text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise!",
     },
     {
       user: "Michael Wilson",
