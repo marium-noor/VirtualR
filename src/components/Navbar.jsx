@@ -48,16 +48,16 @@ function Navbar() {
                 </ul>
 
                 <div className="flex space-y-6 flex-col">
-              <a href="#" className="py-2 px-3 border rounded-md text-center">
-                Sign In
-              </a>
-              <a
-                href="#"
-                className="py-2 px-3 rounded-md bg-gradient-to-l from-orange-400 to-orange-900"
-              >
-                Create an account
-              </a>
-            </div>
+                    <a href="#" className="py-2 px-3 border rounded-md text-center">
+                        Sign In
+                    </a>
+                    <a
+                        href="#"
+                        className="py-2 px-3 rounded-md bg-gradient-to-l from-orange-400 to-orange-900"
+                    >
+                        Create an account
+                    </a>
+                </div>
             </div>
         )
 }
